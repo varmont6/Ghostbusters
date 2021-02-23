@@ -1746,7 +1746,9 @@
 }
 
 .reactionMe-wv5HKu .reactionCount-2mvXRV, .reactionMe-23mbRf:hover .reactionCount-2mvXRV {
-  color: rgb(13, 155, 22);
+  color: rgb(255, 255, 255);
+  text-shadow: 0 0 3px black, 0 0 3px black, 2px 0 3px black,
+    2px 0 3px black, 2px 0 3px black;
 }
 
 .botTagRegular-2HEhHi,
