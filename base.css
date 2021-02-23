@@ -1,13 +1,4 @@
-/**
- * @name Ghostbusters
- * @author Trator de Jacaré#3219
- * @description I don't even like Ghostbusters.
- * @version 1
- */
-
- @import url('https://jpmn333.github.io/Ghostbusters/base.css');
-
- .app-2rEoOp {
+.app-2rEoOp {
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://wallpaperaccess.com/full/1262779.jpg);
     background-size: cover;
 }
