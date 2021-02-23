@@ -144,7 +144,7 @@
 
 .side-8zPYf6 .item-PXvHYJ[style*="color: rgb(240, 71, 71);"] {
   color: white !important;
-  background-color: rgb(215, 35, 35) !important;
+  background-color: rgb(190, 10, 0) !important;
 }
 
 .lookOutlined-3sRXeN.colorRed-1TFJan {
@@ -1746,9 +1746,13 @@
 }
 
 .reactionMe-wv5HKu .reactionCount-2mvXRV, .reactionMe-23mbRf:hover .reactionCount-2mvXRV {
-  color: rgb(255, 255, 255);
+  color: #ffffff;
   text-shadow: 0 0 3px black, 0 0 3px black, 2px 0 3px black,
     2px 0 3px black, 2px 0 3px black;
+}
+
+.reactionMe-wv5HKu .reactionCount-2mvXRV:hover, .reactionMe-23mbRf:hover .reactionCount-2mvXRV{
+    color:#BE0A00;
 }
 
 .botTagRegular-2HEhHi,
