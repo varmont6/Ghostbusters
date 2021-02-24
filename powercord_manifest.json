@@ -1,8 +1,9 @@
 {
     "name": "Ghostbusters",
-    "description": "Ghostbusters  Discord theme, Custom background, RTC Msg, Volume roller and such more.",
-    "version": "1.0",
-    "author": "Trator de Jacare",
-    "license": "MIT",
-    "theme": "base.css"
+    "description": "I don't even like Ghostbusters.",
+    "version": "1",
+    "author": "Trator de Jacare #3219",
+    "theme": "Ghostbusters.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
 }
