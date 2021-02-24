@@ -1,0 +1,8 @@
+{
+    "name": "Ghostbusters",
+    "description": "Ghostbusters  Discord theme, Custom background, RTC Msg, Volume roller and such more.",
+    "version": "1.0",
+    "author": "Trator de Jacare",
+    "license": "MIT",
+    "theme": "base.css"
+}
