@@ -18,3 +18,9 @@
 1. Download the theme file [here](https://downgit.github.io/#/home?url=https://github.com/jpmn333/Ghostbusters/blob/main/Ghostbusters.theme.css).
 2. Open your BetterDiscord themes folder.
 3. Drag the file you downloaded into the folder. Ensure there isn't a copy identifier (eg `Name.theme(1).css`) at the end of the filename.
+
+### Web
+
+* Install **Stylus** | [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) | [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
+* Visit [This link](https://raw.githubusercontent.com/NYRI4/Discolored/master/support/discolored.user.css)
+* Install the style directly into your browser
