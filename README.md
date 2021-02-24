@@ -21,7 +21,7 @@
 
 ### Powercord
 
-<code>cd powercord/src/powercord/themes && git clone https://github.com/jpmn333/Ghostbusters</code>
+```cd powercord/src/powercord/themes && git clone https://github.com/jpmn333/Ghostbusters```
 
 ### Web
 
