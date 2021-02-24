@@ -22,9 +22,3 @@
 ### Powercord
 
 ```cd powercord/src/powercord/themes && git clone https://github.com/jpmn333/Ghostbusters```
-
-### Web
-
-* Install **Stylus** | [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) | [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
-* Visit [This link](https://raw.githubusercontent.com/NYRI4/Discolored/master/support/discolored.user.css)
-* Install the style directly into your browser
